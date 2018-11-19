@@ -31,7 +31,7 @@ enum Sign {
     case paper
     case scissors
     
-    //calculated property
+    //camputed property
     var emoji: String {
         switch self {
         case .rock:
